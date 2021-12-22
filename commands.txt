@@ -29,3 +29,10 @@ docker run -it ubuntu
      apt update
 
      apt install apache2
+
+####Commiting a container
+
+docker commit 9a44a646fcde vinodh1988leo/my-custom-ubuntu
+
+here vinodh1988leo is the docker username
+9a44a646fcde is the container id
