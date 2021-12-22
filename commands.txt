@@ -7,3 +7,7 @@ docker ps
 # to check all containers even if stopped
 
 docker ps -a
+
+# pulling an image
+
+docker pull hello-world
