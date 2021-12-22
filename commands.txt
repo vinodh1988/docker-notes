@@ -11,3 +11,10 @@ docker ps -a
 # pulling an image
 
 docker pull hello-world
+
+#running an image
+
+docker run hello-world
+
+
+docker run ubuntu
