@@ -18,3 +18,14 @@ docker run hello-world
 
 
 docker run ubuntu
+
+
+docker run -it ubuntu
+
+   in the shell
+
+ run 
+
+     apt update
+
+     apt install apache2
